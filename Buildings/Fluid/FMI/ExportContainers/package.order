@@ -2,6 +2,8 @@ HVACZone
 HVACZones
 PartialTwoPort
 ReplaceableTwoPort
+PartialFourPort
+ReplaceableFourPort
 ThermalZone
 ThermalZones
 Examples
